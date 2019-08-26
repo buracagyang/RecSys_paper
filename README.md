@@ -1,2 +1,2 @@
-# RecSys_paper
-Paper on recommendation system.
+# 推荐系统相关的论文、资料
+阅读过的推荐系统中的相关论文、资料等，略做整理总结。所有资料均来自互联网，如有侵权，联系我立马删除。
