@@ -26,6 +26,7 @@
 ### Others
 * [Context-Aware Multi-modal Traffic Management in ITS-A Q-Learning based Algorithm(NTI,Egypt 2015)](https://github.com/buracagyang/RecSys_paper/blob/master/Others/Context-Aware%20Multi-modal%20Traffic%20Management%20in%20ITS-A%20Q-Learning%20based%20Algorithm%28NTI%2CEgypt%202015%29.pdf) <br/>
 * [[BPR] Bayesian Personalized Ranking from Implicit Feedback(Steffen 2009)](https://github.com/buracagyang/RecSys_paper/blob/master/Others/%5BBPR%5D%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback%28Steffen%202009%29.pdf) <br/>
+* [[BST] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba(Ali 2019)](https://github.com/buracagyang/RecSys_paper/blob/master/Others/%5BBST%5D%20Behavior%20Sequence%20Transformer%20for%20E-commerce%20Recommendation%20in%20Alibaba%28Ali%202019%29.pdf) <br/>
 
 ### RecSys-Challenge
 * [[Causal Embeddings] Causal Embeddings for Recommendation(Best Long Paper 2018)](https://github.com/buracagyang/RecSys_paper/blob/master/RecSys-Challenge/%5BCausal%20Embeddings%5D%20Causal%20Embeddings%20for%20Recommendation%28Best%20Long%20Paper%202018%29.pdf) <br/>
